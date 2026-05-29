@@ -1,3 +1,3 @@
 # new-demo
-This is my first git Repository. /n
+This is my first git Repository.
 Author - Bonish Dahal.
