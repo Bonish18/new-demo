@@ -1,4 +1,4 @@
 # new-demo
 This is my first git Repository.
 <br>
-Author - Bonish Dahal.
+Author - bonish.me
